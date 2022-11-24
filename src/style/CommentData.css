@@ -1,0 +1,22 @@
+.container{
+    background: linear-gradient(80deg, hsl(355, 86%, 86%),hsl(353, 92%, 66%) );
+    height:330px;
+    width:100%;
+    /* margin-left:100%; */
+    border-radius: 5px;
+}
+
+.add-comment{
+    width:5%;
+    height:50px;
+}
+
+.add-comment button{
+    height:20px;
+    width:40px;
+}
+
+.add-comment input{
+    width:100px;
+    margin-top: -100px;
+}
